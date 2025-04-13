@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Rhiannon
 
-<!--
-**rhiannonlau/rhiannonlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Yes, like the song).
 
-Here are some ideas to get you started:
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMyN3JlNzl3Ym1uMDVsZDUxNTNkd2QwZjRreHJvbGt1YWY5YTE3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1r1SwzvgghcNW/giphy.gif" width="50"> About Me
+ ```csharp
+ class Profile {
+  string pronouns = "she/her";
+  string[] code = {"C#", "Python", "JavaScript", "SQL", "etc."};
+  string currentlyLearning = "React";
+  string[] hobbies = {"gaming", "dance", "reading"};
+}
+	
+ ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my <a href="https://rhiannonlau.github.io">website<a> for more detailed (and prettier) information about the projects I've been working on.
