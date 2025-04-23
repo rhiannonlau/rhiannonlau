@@ -8,6 +8,7 @@
   string pronouns = "she/her";
   string[] code = {"C#", "Python", "JavaScript", "SQL", "etc."};
   string currentlyLearning = "React";
+  string currentProject = "Penwing's Dream"
   string[] hobbies = {"gaming", "dance", "reading"};
 }
 	
