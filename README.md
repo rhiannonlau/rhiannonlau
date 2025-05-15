@@ -14,4 +14,4 @@
 	
  ```
 
-Visit my <a href="https://rhiannonlau.github.io">website<a> for more detailed (and prettier) information about the projects I've been working on.
+Visit my <a href="https://rhiannonlau.github.io">website<a> for an example of my front-end skills with React and more information about the projects I've been working on.
